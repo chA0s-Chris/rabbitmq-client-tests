@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src\PubSub\PubSub.csproj" Type="Classic C#" />
+    <Project Path="src\Shared\Shared.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
